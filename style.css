@@ -1,0 +1,16 @@
+#bookmark-form {
+    font-family: "News Cycle", "Arial Narrow Bold", sans-serif !important;
+}
+
+.buttons a{
+    float: right;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+/*.errors{
+    margin-top: 10px;
+    margin-right: 10px;
+    position: absolute;
+    right: 0;
+}*/
