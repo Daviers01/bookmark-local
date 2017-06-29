@@ -1,9 +1,11 @@
 # bookmark-local
 simple bookmark app with local storage
 
-### things to be done
-* localStorage
-* editButton for modifying items
+## ☑ TODO
+
+- [ ] Add LocalStorage / JSON
+- [ ] Fix Edit Button (Modal Problem)
+- [ ] Edit Templates
 
 ## built with
 * [jQuery](https://jquery.com/)
