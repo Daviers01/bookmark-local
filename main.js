@@ -33,14 +33,13 @@ function validateForm(siteName, siteUrl) {
 
     if (!siteUrl.match(regex)) {
         var errorTemplate = (
-
             `<div class="alert alert-dismissible alert-danger">
             <button type="button" class="close" data-dismiss="alert">&times;</button>
             <strong>Invalid URL.</strong>
             <p>Please enter a valid url (https) and try submitting again.</p>
             </div>`
         )
-
+        errors.html(errorTemplate)
         return false;
     }
     successAdded()
