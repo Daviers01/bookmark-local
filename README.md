@@ -3,7 +3,7 @@ simple bookmark app with local storage
 
 ## ☑ TODO
 
-- [ ] Add LocalStorage / JSON
+- [X] Add LocalStorage / JSON
 - [ ] Fix Edit Button (Modal Problem)
 - [ ] Edit Templates
 
