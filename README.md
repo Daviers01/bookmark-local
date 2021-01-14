@@ -1,12 +1,3 @@
 # bookmark-local
-simple bookmark app with local storage
-
-## ☑ TODO
-
-- [X] Add LocalStorage / JSON
-- [ ] Fix Edit Button (Modal Problem)
-- [ ] Edit Templates
-
-## built with
-* [jQuery](https://jquery.com/)
-* [bootstrap](http://getbootstrap.com/)
+Simple bookmark app using local storage. 
+Built in jQuery and Bootstrap. I use * [bootswatch](https://bootswatch.com/journal//) for the theme.
