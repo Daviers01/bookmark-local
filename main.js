@@ -51,7 +51,7 @@ function successAdded() {
     var errorTemplate = (
         `<div class="alert alert-dismissible alert-success">
         <button type="button" class="close" data-dismiss="alert">&times;</button>
-        <p>Item successfully added.</p>
+        <p style="margin: 0;">Item successfully added.</p>
         </div>`
         )
     errors.html(errorTemplate);
@@ -181,7 +181,7 @@ var panelTemplate = (
     <div class="panel-heading">
     <h3 class="panel-title" id="js-sitename"></h3>
     </div>
-    <div class="panel-body">
+    <div class="panel-body row">
     <div class="col-sm-4">
     <a href="" class="btn btn-primary" id="js-siteurl">Visit</a>
     </div>
